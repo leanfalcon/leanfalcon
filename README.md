@@ -13,7 +13,7 @@ As a graduate in accountancy, complemented by a diploma in Data Science for Busi
   - Spanish tax law and auditing practices
 - 🤝 I’m looking forward to collaborate on open source projects.
 - 💬 Ask me about anything, I am happy to help.<br>
-- Beyond finance and tech, 🌏 I enjoy travelling, 🏃 playing football or padel, 🎵 listening to music and 🏖️ going to the beach.
+- Beyond finance and tech, 🌏 I enjoy travelling, 🏃 playing futbol or padel, 🎵 listening to music and 🏖️ going to the beach.
 - 📫 Reach out to me at: <a href="leandro.falcon823@gmail.com">leandro.falcon823@gmail.com</a>
 - 📄 Know about my experiences <a href="https://github.com/leanfalcon" target="blank">Resume</a>
 
