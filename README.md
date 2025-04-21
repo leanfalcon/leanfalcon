@@ -7,6 +7,7 @@
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
 I am a Certified Accountant with over 10 years of professional experience in administrative, financial, and data analysis roles, developed across sectors such as banking, technology, and the tertiary services industry. My academic background is complemented by a diploma in Data Science applied to Business, a professional certification in Accounting and Administrative Management for Auditing (currently in progress), and a Data Analytics Bootcamp (also in progress). This combination allows me to bridge technical-accounting expertise with advanced analytical tools including Excel, SAP B1, Python, SQL, and Power BI.
+
 My GitHub portfolio showcases projects that combine my financial background with data science capabilities, reflecting a global and results-oriented perspective.
 - 🌱 I’m currently learning ...
   - Cloud computing with AWS
