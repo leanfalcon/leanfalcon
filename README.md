@@ -6,7 +6,8 @@
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-As a graduate in accountancy, complemented by a diploma in Data Science for Business, I'm focused on data-driven strategic analysis. My tax experience spans Argentina and Mexico, and I'm currently specialising in Spanish tax law and credit risk prediction using machine learning. My GitHub showcases projects combining my financial and data science expertise, with a global perspective.
+I am a Certified Accountant with over 10 years of professional experience in administrative, financial, and data analysis roles, developed across sectors such as banking, technology, and the tertiary services industry. My academic background is complemented by a diploma in Data Science applied to Business, a professional certification in Accounting and Administrative Management for Auditing (currently in progress), and a Data Analytics Bootcamp (also in progress). This combination allows me to bridge technical-accounting expertise with advanced analytical tools including Excel, SAP B1, Python, SQL, and Power BI.
+My GitHub portfolio showcases projects that combine my financial background with data science capabilities, reflecting a global and results-oriented perspective.
 - 🌱 I’m currently learning ...
   - Cloud computing with AWS
   - How to build and implement machine learning models
