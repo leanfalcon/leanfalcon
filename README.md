@@ -19,7 +19,7 @@ My GitHub portfolio showcases projects that combine my financial background with
 
 
 - 📫 Reach out to me at: <a href="leandro.falcon823@gmail.com">leandro.falcon823@gmail.com</a>
-- 📄 Know about my experiences <a href="https://github.com/leanfalcon/EN_CV.git" target="blank">Resume</a>
+- 📄 Know about my experiences <a href="https://github.com/leanfalcon/EN_CV/blob/main/Leandro_Falcon_EN_DA(2).pdf" target="blank">Resume</a>
 
 ## My Skills Include
 
