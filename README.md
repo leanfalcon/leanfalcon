@@ -10,7 +10,6 @@ I am a Certified Accountant with over 10 years of professional experience in adm
 
 My GitHub portfolio showcases projects that combine my financial background with data science capabilities, reflecting a global and results-oriented perspective.
 - 🌱 I’m currently learning ...
-  - Cloud computing with AWS
   - How to build and implement machine learning models
   - Spanish tax law and auditing practices
 - 🤝 I’m looking forward to collaborate on open source projects.
